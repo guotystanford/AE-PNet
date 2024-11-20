@@ -5,6 +5,7 @@
 2. Example data <br />
    2.1 Manually pickings:.xlsx files saving information of waveform files and manual pickings <br />
    2.2 Raw AE data: Raw AE waveform files <br />
+   2.3 Training test and validation data outupt by code "Data_preparation"
 3. Trained models <br />
    3.1 AEPNET_Aug_1500_train&valida_241119: AE-PNet model trained by 1500 waveforms (Data set # 15 in Table 2 in Guo et al., 2024 ) <br />
    3.2 AEPNET_Aug_40000_train&valida_241119: AE-PNet model trained by 1500 waveforms (Data set # 12 in Table 1 in Guo et al., 2024)
