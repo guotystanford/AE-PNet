@@ -1,4 +1,4 @@
-# This repository contains three folders. The meaning of files or folders are  
+# The meaning of files or folders are  
 1. [Python codes](https://github.com/guotystanford/AE-PNet/tree/main/Python%20codes) <br />
    1.1 [Data_preparation](https://github.com/guotystanford/AE-PNet/blob/main/Python%20codes/Data_preparation_241119.ipynb): Data preparation for training and testing AE-PNet <br />
    1.2 [AE-PNet_model_building_training](https://github.com/guotystanford/AE-PNet/blob/main/Python%20codes/AE-PNet_model_building_training_241119.ipynb): Model building, training and deployment of AE-PNet <br />
